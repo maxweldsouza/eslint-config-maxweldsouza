@@ -1,7 +1,4 @@
 module.exports = {
-  'extends': [
-      'eslint-config-airbnb';
-  ],
-  rules: {
-  }
+	extends: ['eslint-config-airbnb'],
+	rules: {}
 };
